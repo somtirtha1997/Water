@@ -1,0 +1,23 @@
+TYPES
+2
+H
+O
+
+NETWORKS
+  H  H.10tw-10tw.ann
+  O  O.10tw-10tw.ann
+
+FORCES
+
+FILES
+10
+train2000_971.xsf
+train1000_494.xsf
+train0500_95.xsf
+train1000_777.xsf
+train2000_1193.xsf
+train2000_1198.xsf
+train2000_1125.xsf
+train1000_902.xsf
+train1000_556.xsf
+train2000_1301.xsf
